@@ -17,7 +17,7 @@ Let's work !
 ![test_kitten_from_internet](https://cdn2.tuoitre.vn/471584752817336320/2024/4/10/khong-co-tieu-de127-171275937309226887441.png)
 This is how to upload the image from the internet!
 
-![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
+![test_kitten](https://PhanNhung-onn.github.io/paper-jekyll-theme/assets/images/images.jpg)
 
 This is how to upload from your assets (your local image)
 
