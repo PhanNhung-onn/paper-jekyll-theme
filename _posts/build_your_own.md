@@ -27,11 +27,9 @@ comments: true
 ### 🎯 Mục tiêu
 Xây dựng một hệ thống nhận diện các loài hoa tại Việt Nam từ hình ảnh, ứng dụng trong giáo dục và nông nghiệp.
 
-### 🔍 Giải thích mã
-
-~~~python
-print("Xin chào, đây là dự án nhận diện hoa!")
-~~~
+## Giải thích dự án
+- Dữ liệu gồm hình ảnh của nhiều loài hoa như: **Hoa Hồng Nhung, Hoa Lan Vanda, Hoa Giấy, Hoa Mộc Lan Vàng, v.v.**
+- Mô hình học sâu (Deep Learning) sử dụng **TensorFlow** và huấn luyện trên dữ liệu được gán nhãn sẵn.
 
 ### 🌹 Hình ảnh ví dụ  
 ![hoa-hong](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
@@ -53,11 +51,9 @@ print("Xin chào, đây là dự án nhận diện hoa!")
 ### 🎯 Goal
 Build a system that classifies flower species in Vietnam using image recognition, useful for education and agriculture.
 
-### 🔍 Code Explanation
-
-~~~python
-print("Hello, this is our flower classification project!")
-~~~
+## Project Explanation
+- The data consists of images of various flower species such as: **Velvet Rose, Vanda Orchid, Paper Flower, Yellow Magnolia, etc.**
+- The deep learning model uses **TensorFlow** and is trained on pre-labelled data.
 
 ### 🌹 Sample Image  
 ![rose](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
@@ -76,14 +72,9 @@ print("Hello, this is our flower classification project!")
 ### 💡 팀 모토
 > “인공지능으로 꽃을 피우다.”
 
-### 🎯 목표
-AI를 사용하여 베트남에서 자주 볼 수 있는 꽃들을 이미지로 인식하고 분류하는 시스템을 구축합니다.
-
-### 🔍 코드 설명
-
-~~~python
-print("안녕하세요, 이것은 꽃 분류 프로젝트입니다!")
-~~~
+## 프로젝트 설명
+- 데이터는 여러 꽃 종류의 이미지로 구성됩니다: **벨벳 장미, 반다 난초, 종이 꽃, 노란 모란꽃 등**.
+- 심층 학습 모델(Deep Learning)이 **TensorFlow**를 사용하여 미리 라벨이 지정된 데이터로 훈련됩니다.
 
 ### 🌹 예시 이미지  
 ![장미](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
