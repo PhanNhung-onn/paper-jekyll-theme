@@ -15,9 +15,11 @@ comments: true
 ## 🇻🇳 Tiếng Việt – Dự án Nhận Diện Hoa
 
 ### 👥 Thành viên nhóm
-1. Nguyễn Văn A  
-2. Trần Thị B  
-3. Lê Văn C  
+1. Nguyễn Phương Minh 
+2. Phan Hồng Nhung
+3. Phan Huỳnh Gia Bảo
+4. Huỳnh Thân Long
+5. Lâm Minh Duy
 
 ### 💡 Phương châm
 > “Đưa trí tuệ nhân tạo đến với từng cánh hoa.”
@@ -32,16 +34,18 @@ print("Xin chào, đây là dự án nhận diện hoa!")
 ~~~
 
 ### 🌹 Hình ảnh ví dụ  
-![hoa-hong](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg)
+![hoa-hong](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
 
 ---
 
 ## 🇺🇸 English – Flower Classification Project
 
 ### 👥 Team Members
-1. Nguyen Van A  
-2. Tran Thi B  
-3. Le Van C  
+1. Nguyen Phuong Minh
+2. Phan Hong Nhung
+3. Phan Huynh Gia Bao
+4. Huynh Than Long
+5. Lam Minh Duy
 
 ### 💡 Motto
 > “Make AI bloom with flowers.”
@@ -56,16 +60,18 @@ print("Hello, this is our flower classification project!")
 ~~~
 
 ### 🌹 Sample Image  
-![rose](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg)
+![rose](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
 
 ---
 
 ## 🇰🇷 한국어 – 꽃 분류 프로젝트
 
 ### 👥 팀원
-1. 응우옌 반 A  
-2. 쩐 티 B  
-3. 레 반 C  
+1. Nguyen Phuong Minh
+2. Phan Hong Nhung
+3. Phan Huynh Gia Bao
+4. Huynh Than Long
+5. Lam Minh Duy 
 
 ### 💡 팀 모토
 > “인공지능으로 꽃을 피우다.”
@@ -80,7 +86,6 @@ print("안녕하세요, 이것은 꽃 분류 프로젝트입니다!")
 ~~~
 
 ### 🌹 예시 이미지  
-![장미](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg)
+![장미](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_rose.jpg/640px-Red_rose.jpg](https://image-us.eva.vn/upload/3-2022/images/2022-08-12/image31-1660292012-423-width2048height1365.jpg)
 
 ---
-
